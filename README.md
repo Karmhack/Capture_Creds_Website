@@ -1,4 +1,3 @@
-# Caputre_Creds_Website
 ## Eng
 
 This is a small and simple project for education purposes only
