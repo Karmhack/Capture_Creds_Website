@@ -13,6 +13,7 @@ You can use the command `sudo mysql_secure_installation` to install your sql dat
 Then create the database and the table :
 
 `create database <database_name> default character set utf8 collate utf8_unicode_ci;`
+
 `create table <table name> (username VARCHAR(255), passord VARCHAR(255))`;
 
  Then do not forget to edit the logs.php file with the correct sql credentials and names.
