@@ -6,7 +6,6 @@ Each login request sent via this web page is stored in a SQL database then the u
 
 Tested on Apache2 with MariaDB
 
-
 ![image](https://github.com/Karmhack/Caputre_Creds_Website/assets/78755695/aa7eae1e-4ac7-47aa-a85b-3c698e23d847)
 
 ![image](https://github.com/Karmhack/Caputre_Creds_Website/assets/78755695/6788afa1-f0da-466d-9375-73a67fb26411)
