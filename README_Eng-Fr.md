@@ -1,4 +1,4 @@
-## Eng
+## English
 
 This is a small and simple project for education purposes only
 
@@ -21,7 +21,7 @@ Then create the database and the table :
 
  Then do not forget to edit the logs.php file with the correct sql credentials and DB / tables names.
 
-## Fr
+## Français
 
 Il s'agit d'un petit projet tout simple réalisé à des fins éducatives uniquement.
 
